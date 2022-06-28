@@ -71,7 +71,7 @@ global.owner = [
   ['24105166540'],
   ['24105166540', 'Sasyi by Hendrqbotz ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+] // Hendra your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
@@ -117,7 +117,7 @@ global.APIKeys = { // APIKey Here
 //GANTI SETERAH MU
 global.wm = '© Sasyi' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Sasyi By Putbotz'
+global.wm3 = '⫹⫺Sasyi By Hendrabotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
